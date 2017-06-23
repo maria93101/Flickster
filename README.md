@@ -34,6 +34,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+I had a really hard time getting youtube to work and I put a lot of time into that. At the end, I was having trouble with communicating with the Youtube server and it was causing everything to crash and Android studio to abort so I reverted back to the version without youtube :(
+
 ## Open-source libraries used
 
 - [Android Async HTTP](https://github.com/loopj/android-async-http) - Simple asynchronous HTTP requests with JSON parsing
