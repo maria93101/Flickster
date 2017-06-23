@@ -22,15 +22,11 @@ The following **optional** features are implemented:
 * [ ] Apply the popular [Butterknife annotation library](http://guides.codepath.com/android/Reducing-View-Boilerplate-with-Butterknife) to reduce boilerplate code.
 * [ ] Allow video trailers to be played in full-screen using the YouTubePlayerView from the details screen.
 
-The following **additional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Walkthrough](walkthrough.gif)'
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
